@@ -58,7 +58,7 @@ It was designed to reduce staff workload on repetitive tasks while improving cus
 * RestaurantChatbot_Backup.sql – PostgreSQL database schema and sample data
 
 # Setup Instructions
-1. Database Setup
+**1. Database Setup**
 
 **Install PostgreSQL.**
 
@@ -69,7 +69,7 @@ psql -U postgres -f RestaurantChatbot_Backup.sql
 
 **Ensure a database named restaurant_chatbot is created with tables: users, reservations, faq, feedback, conversation_history.**
 
-2. Configure Database Connection
+**2. Configure Database Connection**
 
 **Update DatabaseConnection.java with your PostgreSQL credentials:**
 
@@ -77,7 +77,7 @@ private static final String URL = "jdbc:postgresql://localhost:5432/restaurant_c
 private static final String USER = "postgres";
 private static final String PASSWORD = "postgres";
 
-3. Compile and Run
+**3. Compile and Run**
 javac *.java
 java InitialPage
 
