@@ -97,9 +97,9 @@ Saved in the reservations table.
 
 **Feedback:**
 
-# User rates 5 and comments "Lovely staff".
+User rates 5 and comments "Lovely staff".
 
-**Future Improvements**
+# Future Improvements
 
 * Encrypt user passwords for security
 
