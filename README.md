@@ -107,4 +107,4 @@ User rates 5 and comments "Lovely staff".
 
 * Enhance chatbot with NLP for more flexible queries
 
-* Implement email or SMS notifications for reservations
+* Implement email or SMS notifications for reservation
